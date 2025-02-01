@@ -1,5 +1,5 @@
-## ASSIGNMENT 1
-# QUESTION 1
+# ASSIGNMENT 1
+## QUESTION 1
 Below are the 5 modern web design trends
 
 - Color Trends : Web design color trends in 2025 are shifting towards more soothing and nurturing color palettes, 
@@ -25,19 +25,19 @@ They reduce eye strain and create an ultra-modern look, highlighting other desig
 
 ## QUESTION 2
 The following are the 3 popular design frame work and their uses.
-1. Material Design
+### 1. Material Design
 - Developed by: Google
 - Use: Material Design is a design system created by Google, used for Android, iOS, and web applications.
  It provides a set of pre-defined UI components, such as buttons, cards, and navigation drawers.
 - Benefits: Material Design promotes consistency, simplicity, and usability across different platforms.
 
-# 2. Bootstrap
+### 2. Bootstrap
 - Developed by: Twitter
 - Use: Bootstrap is a popular front-end framework used for building responsive, mobile-first web applications.
  It provides pre-built CSS and HTML components, such as grids, navigation bars, and alerts.
 - Benefits: Bootstrap enables rapid prototyping, simplifies layout management, and ensures cross-browser compatibility.
 
-# 3. Tailwind CSS
+### 3. Tailwind CSS
 - Developed by: Adam Wathan
 - Use: Tailwind CSS is a utility-first CSS framework used for building custom user interfaces.
  It provides low-level utility classes for styling HTML elements, such as spacing, sizing, and typography.
